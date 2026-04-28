@@ -1,0 +1,66 @@
+2026-03-23 20:23:20.451 [info]  Circle 
+2026-03-23 20:23:20.451 [info] конструктор
+2026-03-23 20:23:20.451 [info] Circle, radius 
+2026-03-23 20:23:20.451 [info] Circle::area() 
+2026-03-23 20:23:20.451 [info] Circle::perimetr() 
+2026-03-23 20:23:20.451 [info] Circle::info(), radius 
+2026-03-23 20:23:20.451 [info]  Rectangle 
+2026-03-23 20:23:20.451 [info] конструктор
+2026-03-23 20:23:20.451 [info] Rectangle constructor called, width = 2, height = 4
+2026-03-23 20:23:20.451 [info] Rectangle::area() = 8
+2026-03-23 20:23:20.451 [info] Rectangle::perimetr() = 12
+2026-03-23 20:23:20.451 [info] Rectangle::info() called, width = 2, height = 4
+2026-03-23 20:23:20.451 [info]  Figure (Circle) 
+2026-03-23 20:23:20.451 [info] конструктор
+2026-03-23 20:23:20.452 [info] Circle, radius 
+2026-03-23 20:23:20.452 [info] Circle::area() 
+2026-03-23 20:23:20.452 [info] Circle::perimetr() 
+2026-03-23 20:23:20.452 [info] инфо
+2026-03-23 20:23:20.452 [debug] Circle destructor, radius 
+2026-03-23 20:23:20.452 [debug] деструктор
+2026-03-23 20:23:20.452 [info]  Figure (Rectangle) 
+2026-03-23 20:23:20.452 [info] конструктор
+2026-03-23 20:23:20.452 [info] Rectangle constructor called, width = 3, height = 5
+2026-03-23 20:23:20.452 [info] Rectangle::area() = 15
+2026-03-23 20:23:20.452 [info] Rectangle::perimetr() = 16
+2026-03-23 20:23:20.452 [info] инфо
+2026-03-23 20:23:20.452 [debug] Rectangle destructor called, width = 3, height = 5
+2026-03-23 20:23:20.452 [debug] деструктор
+2026-03-23 20:23:20.452 [debug] Rectangle destructor called, width = 2, height = 4
+2026-03-23 20:23:20.452 [debug] деструктор
+2026-03-23 20:23:20.452 [debug] Circle destructor, radius 
+2026-03-23 20:23:20.452 [debug] деструктор
+
+
+2026-03-23 20:38:28.055 [info]  Circle 
+2026-03-23 20:38:28.055 [info] Figure constructor called
+2026-03-23 20:38:28.055 [info] Circle, radius 
+2026-03-23 20:38:28.055 [info] Circle::area() 
+2026-03-23 20:38:28.055 [info] Circle::perimetr() 
+2026-03-23 20:38:28.055 [info] Circle::info(), radius 
+2026-03-23 20:38:28.055 [info]  Rectangle 
+2026-03-23 20:38:28.055 [info] Figure constructor called
+2026-03-23 20:38:28.055 [info] Rectangle constructor called, width = 2, height = 4
+2026-03-23 20:38:28.055 [info] Rectangle::area() = 8
+2026-03-23 20:38:28.055 [info] Rectangle::perimetr() = 12
+2026-03-23 20:38:28.055 [info] Rectangle::info() called, width = 2, height = 4
+2026-03-23 20:38:28.055 [info]  Figure (Circle) 
+2026-03-23 20:38:28.055 [info] Figure constructor called
+2026-03-23 20:38:28.055 [info] Circle, radius 
+2026-03-23 20:38:28.055 [info] Circle::area() 
+2026-03-23 20:38:28.055 [info] Circle::perimetr() 
+2026-03-23 20:38:28.055 [info] Figure::info() called
+2026-03-23 20:38:28.055 [debug] Circle destructor, radius 
+2026-03-23 20:38:28.055 [debug] Figure destructor called
+2026-03-23 20:38:28.055 [info]  Figure (Rectangle) 
+2026-03-23 20:38:28.056 [info] Figure constructor called
+2026-03-23 20:38:28.056 [info] Rectangle constructor called, width = 3, height = 5
+2026-03-23 20:38:28.056 [info] Rectangle::area() = 15
+2026-03-23 20:38:28.056 [info] Rectangle::perimetr() = 16
+2026-03-23 20:38:28.056 [info] Figure::info() called
+2026-03-23 20:38:28.056 [debug] Rectangle destructor called, width = 3, height = 5
+2026-03-23 20:38:28.056 [debug] Figure destructor called
+2026-03-23 20:38:28.056 [debug] Rectangle destructor called, width = 2, height = 4
+2026-03-23 20:38:28.056 [debug] Figure destructor called
+2026-03-23 20:38:28.056 [debug] Circle destructor, radius 
+2026-03-23 20:38:28.056 [debug] Figure destructor called

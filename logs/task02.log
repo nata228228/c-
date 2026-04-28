@@ -1,0 +1,52 @@
+2026-03-23 20:32:11.507 [info]  Массив указателей 
+2026-03-23 20:32:11.507 [info] Figure constructor called
+2026-03-23 20:32:11.507 [info] Circle, radius 
+2026-03-23 20:32:11.507 [info] Figure constructor called
+2026-03-23 20:32:11.507 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 20:32:11.507 [info] поэлементно 
+2026-03-23 20:32:11.507 [info] Circle::area() 
+2026-03-23 20:32:11.507 [info] Circle::perimetr() 
+2026-03-23 20:32:11.507 [info] Figure::info() called
+2026-03-23 20:32:11.507 [info] поэлементно 
+2026-03-23 20:32:11.507 [info] Rectangle::area() = 12
+2026-03-23 20:32:11.507 [info] Rectangle::perimetr() = 14
+2026-03-23 20:32:11.507 [info] Figure::info() called
+2026-03-23 20:32:34.258 [info]  Массив указателей 
+2026-03-23 20:32:34.258 [info] Figure constructor called
+2026-03-23 20:32:34.258 [info] Circle, radius 
+2026-03-23 20:32:34.258 [info] Figure constructor called
+2026-03-23 20:32:34.258 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 20:32:34.258 [info] поэлементно 
+2026-03-23 20:32:34.258 [info] Circle::area() 
+2026-03-23 20:32:34.258 [info] Circle::perimetr() 
+2026-03-23 20:32:34.258 [info] Figure::info() called
+2026-03-23 20:32:34.258 [info] поэлементно 
+2026-03-23 20:32:34.258 [info] Rectangle::area() = 12
+2026-03-23 20:32:34.258 [info] Rectangle::perimetr() = 14
+2026-03-23 20:32:34.258 [info] Figure::info() called
+2026-03-23 20:34:16.033 [info]  Массив указателей 
+2026-03-23 20:34:16.033 [info] Figure constructor called
+2026-03-23 20:34:16.033 [info] Circle, radius 
+2026-03-23 20:34:16.033 [info] Figure constructor called
+2026-03-23 20:34:16.033 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 20:34:16.033 [info] поэлементно 
+2026-03-23 20:34:16.033 [info] Circle::area() 
+2026-03-23 20:34:16.033 [info] Circle::perimetr() 
+2026-03-23 20:34:16.033 [info] Figure::info() called
+2026-03-23 20:34:16.033 [info] поэлементно 
+2026-03-23 20:34:16.033 [info] Rectangle::area() = 12
+2026-03-23 20:34:16.033 [info] Rectangle::perimetr() = 14
+2026-03-23 20:34:16.033 [info] Figure::info() called
+2026-03-23 20:34:29.493 [info]  Массив указателей 
+2026-03-23 20:34:29.493 [info] Figure constructor called
+2026-03-23 20:34:29.493 [info] Circle, radius 
+2026-03-23 20:34:29.493 [info] Figure constructor called
+2026-03-23 20:34:29.493 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 20:34:29.493 [info] поэлементно 
+2026-03-23 20:34:29.493 [info] Circle::area() 
+2026-03-23 20:34:29.493 [info] Circle::perimetr() 
+2026-03-23 20:34:29.493 [info] Figure::info() called
+2026-03-23 20:34:29.493 [info] поэлементно 
+2026-03-23 20:34:29.493 [info] Rectangle::area() = 12
+2026-03-23 20:34:29.493 [info] Rectangle::perimetr() = 14
+2026-03-23 20:34:29.493 [info] Figure::info() called

@@ -1,0 +1,36 @@
+2026-03-23 20:35:35.213 [info] Figure constructor called
+2026-03-23 20:35:35.214 [info] Circle, radius 
+2026-03-23 20:35:35.214 [info] Circle::area() 
+2026-03-23 20:35:35.214 [info] Circle::perimetr() 
+2026-03-23 20:35:35.214 [info] Figure::info() called
+2026-03-23 20:35:35.214 [info]  Массив указателей 
+2026-03-23 20:35:35.214 [info] Figure constructor called
+2026-03-23 20:35:35.214 [info] Circle, radius 
+2026-03-23 20:35:35.214 [info] Figure constructor called
+2026-03-23 20:35:35.214 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 20:35:35.214 [info] Figure::info() called
+2026-03-23 20:35:35.214 [info] Figure::info() called
+2026-03-23 20:35:35.793 [info] Figure constructor called
+2026-03-23 20:35:35.793 [info] Circle, radius 
+2026-03-23 20:35:35.793 [info] Circle::area() 
+2026-03-23 20:35:35.793 [info] Circle::perimetr() 
+2026-03-23 20:35:35.793 [info] Figure::info() called
+2026-03-23 20:35:35.793 [info]  Массив указателей 
+2026-03-23 20:35:35.793 [info] Figure constructor called
+2026-03-23 20:35:35.793 [info] Circle, radius 
+2026-03-23 20:35:35.793 [info] Figure constructor called
+2026-03-23 20:35:35.793 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 20:35:35.793 [info] Figure::info() called
+2026-03-23 20:35:35.793 [info] Figure::info() called
+2026-03-23 21:01:28.079 [info] Figure constructor called
+2026-03-23 21:01:28.080 [info] Circle, radius 
+2026-03-23 21:01:28.080 [info] Circle::area() 
+2026-03-23 21:01:28.080 [info] Circle::perimetr() 
+2026-03-23 21:01:28.080 [info] Circle::info(), radius 
+2026-03-23 21:01:28.080 [info]  Массив указателей 
+2026-03-23 21:01:28.080 [info] Figure constructor called
+2026-03-23 21:01:28.080 [info] Circle, radius 
+2026-03-23 21:01:28.080 [info] Figure constructor called
+2026-03-23 21:01:28.080 [info] Rectangle constructor called, width = 3, height = 4
+2026-03-23 21:01:28.080 [info] Circle::info(), radius 
+2026-03-23 21:01:28.080 [info] Rectangle::info() called, width = 3, height = 4
